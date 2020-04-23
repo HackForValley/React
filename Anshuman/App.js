@@ -4,7 +4,7 @@ import './App.css';
 function App()
 {
   return (
-    <div class name="App">
+    <div class Name="App">
       <Person name="Anshuman" age="18"/>
       <Person name="Ram" age="18"/>
     </div>
